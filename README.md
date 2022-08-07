@@ -1,5 +1,7 @@
 # Hi there, it's Simon👋
 
-## I am currently a student studying Bachelor of Computer Science in Graphic and Multimedia Software at a local university. This profile is for me to backup my assignments or projects that have been done in class, my own exploration, self learning, online courses, also as my portfolio.
+I am currently a student studying Bachelor of Computer Science in Graphic and Multimedia Software at a local university. This profile is for me to backup my assignments or projects that have been done in class, my own exploration, self learning, online courses, and also as my portfolio.
 
-## Feel free to explore it! My own website will be launched soon, stay tuned!
+If you have any question, just drop your message in the discussion section that included in this repository, or you may access it from this link. *[Simon's Discussion Page](https://github.com/simonnchong/simonnchong/discussions)*
+
+Feel free to explore my repositories, have fun! And see you there!
