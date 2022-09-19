@@ -1,4 +1,6 @@
-# Hi there, it's *Simon*👋
+# Hi there, it's *Simon*🧑‍💻
+
+![](https://komarev.com/ghpvc/?username=simonnchong&color=orange&style=for-the-badge&label=VISIT+COUNTER)
 
 I am currently a student studying Bachelor of Computer Science in Graphic and Multimedia Software at a local university. This profile is for me to backup my assignments or projects that have been done in class, my own exploration, self learning, online courses, and also as my portfolio.
 
